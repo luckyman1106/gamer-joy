@@ -7,7 +7,7 @@ import HomeButton from '../Homebutton'
 
 export default function Header() {
   return (
-    <header className="container sticky top-0 mx-auto my-2 flex justify-between  ">
+    <header className="flex justify-between py-6 px-8    z-40 w-full  ">
       <HomeButton/>
       <ThemeToggle />
     </header>

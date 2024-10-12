@@ -2,11 +2,11 @@
 
 Ce projet est une base de démarrage vraiment light pour tous mes projets et futur projets. Il est configuré avec Next.js, Tailwind CSS, Shadcn/ui, TypeScript, ESLint, Prettier, Next-theme.
 
-Vous pouvez clone cette base de projet et faire le votre. Une version live disponible à : [https://H5 game platform.vercel.app](https://H5 game platform.vercel.app)
+Vous pouvez clone cette base de projet et faire le votre. Une version live disponible à : [https://amer-joy-fe.vercel.app](https://amer-joy-fe.vercel.app)
 
 # Sommaire
 
-1. [Amouz Boilerplate](#H5 game platform)
+1. [Amouz Boilerplate](#amer-joy-fe)
 2. [Contenu](#contenu)
    - [Scripts](#scripts)
    - [Dépendances](#dépendances)

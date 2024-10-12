@@ -2,7 +2,7 @@ import { env } from '@/env.mjs'
 import type { Metadata } from 'next'
 
 export const APP_CONFIG = {
-  name: 'H5 game platform',
+  name: 'amer-joy-fe',
   creator: 'Abderrahmane MOUZOUNE',
   website: (env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000') as string,
   twitter: '@abderrahmane_js',
@@ -18,7 +18,7 @@ export const FALLBACK_SEO: Metadata = {
   title: APP_CONFIG.name,
   openGraph: {
     title:
-      'H5 game platform the fastest & safest way to start an Strapi + Nextjs project',
+      'amer-joy-fe the fastest & safest way to start an Strapi + Nextjs project',
     url: new URL(APP_CONFIG.website),
     siteName: APP_CONFIG.name,
     images: [
